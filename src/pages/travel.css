@@ -1,0 +1,12 @@
+.local {
+    margin: 10px auto;
+    width: 95%;
+    height: 150px;
+    /* background-color: rebeccapurple; */
+    /* background-image: url(https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fbpic.588ku.com%2Fback_pic%2F05%2F84%2F33%2F745c6e64176ca7b.jpg&refer=http%3A%2F%2Fbpic.588ku.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1618053495&t=a14b3a3e815591f5bc83d5346e9c0e62); */
+    background-size: 100%;
+}
+
+#root .react-swipeable-view-container .MuiBox-root {
+    padding: 1px;
+}

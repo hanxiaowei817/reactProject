@@ -1,0 +1,12 @@
+.am-grid-item-inner-content {
+    margin-top: -10px;
+    width: 180% !important;
+    margin-left: -30px;
+}
+
+html,
+body,
+#root {
+    height: 100%;
+    /* overflow: hidden; */
+}
